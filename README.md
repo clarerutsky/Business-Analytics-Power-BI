@@ -1,15 +1,11 @@
-View the Report via web here: 
+  POWERBI PROJECT:
+  View my Report Project via web  cLick the link below: 
 
-CHARITEX Ecommerce Report-
-
-https://tinyurl.com/bdf6ww4u
+Ecommerce 
+CHARITEX Ecommerce Report-      https://tinyurl.com/bdf6ww4u
 ---------------------
-
-BI Academy Report :
-
-https://tinyurl.com/3hn37tb4
---------------------------------
-
-SBA ESTATE Report
-
-https://tinyurl.com/kx2wrtcj
+Ecommerce
+BI Academy Report :              https://tinyurl.com/3hn37tb4
+-------------------------
+REAL ESTATE 
+SBA ESTATE Report :            https://tinyurl.com/kx2wrtcj
