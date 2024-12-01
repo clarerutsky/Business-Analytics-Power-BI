@@ -1,5 +1,5 @@
-  POWERBI PROJECT:
-  View my Report Project via web  cLick the link below: 
+  POWER BI PROJECT: 
+  the Report project was published on Power BI service, click the link below to view it: 
 
 Ecommerce 
 CHARITEX Ecommerce Report-      https://tinyurl.com/bdf6ww4u
