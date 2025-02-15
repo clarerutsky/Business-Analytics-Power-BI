@@ -2,7 +2,7 @@
   the Report project was published on Power BI service, click the link below to view it: 
 
 commerce 
-CHARITEX Ecommerce Report-      https://tinyurl.com/bdf6ww4u
+CHARITEX  Report-      https://tinyurl.com/bdf6ww4u
 ---------------------
 commerce
 Buldon Report :              https://tinyurl.com/3hn37tb4
