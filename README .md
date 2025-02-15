@@ -1,5 +1,7 @@
+                    click the link below to projects
+  
   POWER BI PROJECT: 
-  the Report project was published on Power BI service, click the link below to view it: 
+  the Report project was published on Power BI service, click the link below: 
 
 commerce 
 CHARITEX  Report-      https://tinyurl.com/bdf6ww4u
