@@ -14,3 +14,6 @@ SBA ESTATE Report :            https://tinyurl.com/kx2wrtcj
 
 ---------------------------------
 PWC Churn Analysis :    https://tinyurl.com/24r5a73b
+
+------------------------------------
+Diversity Inclusion Analysis-    https://tinyurl.com/5b7vrndj
