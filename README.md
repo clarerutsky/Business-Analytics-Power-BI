@@ -3,7 +3,7 @@
                         
 POWER BI PROJECT: the Report was published in BI service, click the link below:
 -----------------------------
-commerce CHARITEX Report- https://tinyurl.com/bdf6ww4u
+commerce CHARITEX Report- https://tinyurl.com/4v7utcze
 -------------
 commerce Buldon Report : https://tinyurl.com/3hn37tb4
 ---------------
